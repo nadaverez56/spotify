@@ -1,0 +1,34 @@
+Libraries and modules used in the project:
+
+pandas
+numpy
+time
+math
+seaborn
+statsmodels.stats.outliers_influence
+variance_inflation_factor
+statsmodels.api
+matplotlib.pyplot
+statistics
+sklearn.preprocessing
+OneHotEncoder, StandardScaler, PolynomialFeatures
+sklearn.model_selection
+train_test_split , cross_val_score, cross_validate ,GridSearchCV,RepeatedKFold
+sklearn.metrics
+roc_curve
+sklearn.metrics
+roc_auc_score
+sklearn.metrics
+mean_squared_error, r2_score
+warnings
+warnings.filterwarnings('ignore')
+seaborn
+stylecloud
+sklearn.model_selection 
+cross_val_predict
+sklearn.metrics 
+confusion_matrix
+sklearn.metrics
+classification_report
+sklearn.neighbors
+KNeighborsRegressor
