@@ -5,6 +5,13 @@ The dataset chosen for this project contains tracks that were released from 1920
 
 It contains several interesting metrices defined by Spotify for each track. These vary from acousticness to danceability, major/minor and explicity. 
 
-The code includes EDA performed on the dataset showing different trends, as well ad pre-proccessing and ML models for prediction.
+The code includes EDA performed on the dataset showing different trends, as well as pre-proccessing and ML models for prediction.
+
+
+
+Enjoy :)
+
+![stylecloud](https://user-images.githubusercontent.com/62807222/168447573-2541cfba-b1bf-4794-9691-5f9c4f053a48.png)
+
 
 
